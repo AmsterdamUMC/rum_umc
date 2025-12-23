@@ -1,6 +1,6 @@
 *Edit this README.md to create a page about about your session and upload any session-related files to this folder. [RUM-UMC homepage](). Example page based on [RUM-UMC session 1](https://github.com/AmsterdamUMC/rum_umc/blob/main/_posts/session_1/session_1.Rmd).*
 
-# 06-19-2024. Session 1: tidytuesday
+# Wednesday, June 19th, 2024. Session 1: tidytuesday
 First session to kick-off the group & a short demonstration of tidytuesday, by [Sam Langton](https://www.samlangton.info) ([Amsterdam UMC](https://www.amsterdamumc.org/en.htm))
 
 ## Introduction
